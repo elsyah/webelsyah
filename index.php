@@ -1,0 +1,1 @@
+<? php header ('location: C:\KULIAH smt 1\DW teori tugas classroom/tugas1.html'); ?>
